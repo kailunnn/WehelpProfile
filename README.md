@@ -1,2 +1,2 @@
-# wehelpProfile
+# ehelpProfile
 profile
